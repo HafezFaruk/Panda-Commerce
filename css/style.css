@@ -19,29 +19,25 @@ a:hover{
     padding: 9px 25px;
     cursor: pointer;
 }
-
+/* categories */
 .categories h1{
    color: #fff;
 }
 .categories img{
    width: 100px;
 }
-
 .categories-watch,
 .categories-bag,
 .categories-shoes{
     padding: 10px 30px;
     border-radius: 10px;
 }
-
 .categories-watch{
     background-color: orange;
 }
-
 .categories-bag{
     background-color: orchid;
 }
-
 .categories-shoes{
     background-color: #6614ff;
 }
